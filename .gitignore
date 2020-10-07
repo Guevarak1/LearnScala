@@ -1,2 +1,4 @@
 *.class
 *.log
+target/global-logging/
+target/task-temp-directory/
